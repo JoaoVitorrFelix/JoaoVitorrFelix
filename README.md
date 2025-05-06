@@ -1,4 +1,4 @@
- Olá, sou o João Vitor Felix Souza e estou atualmente me formando em Análise e  Desenvolvimento de Sistemas. Nesse perfil poderá encontrar alguns dos meus projetos ao longo da minha carreira como Desenvolvedor.
+ Olá, sou o João Vitor Felix Souza e estou atualmente me formando em Análise e  Desenvolvimento de Sistemas. Nesse perfil poderá encontrar alguns dos meus projetos Desenvolvidos ao longo da minha carreira como Desenvolvedor.
  
 -  Desenvolvedor Full Stack
 -  Programação Web
@@ -10,13 +10,14 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Angular" height="40" width="50" title="Angular" src="hhttps://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular">
-  <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Angular" height="40" width="50" title="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="TS" height="40" width="50" title="TS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Js" height="30" width="40" title="JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="40" width="50" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt ="csharp" height = "40" width ="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" >
+  <img align="center" alt ="csharp" height = "40" width ="40" title="CSHARP" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" >
 
 
 
