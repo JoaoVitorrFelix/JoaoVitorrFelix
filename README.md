@@ -36,6 +36,14 @@
 
 ##
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoVitorrFelix/JoaoVitorrFelix/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoVitorrFelix/JoaoVitorrFelix/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoaoVitorrFelix/JoaoVitorrFelix/output/github-contribution-grid-snake.svg">
+</picture>
+
+##
+
 </div>
 <h3 align="center"> 📫 Entre em contato comigo via Linkedin:</h3>
   <p align="center">
