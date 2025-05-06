@@ -1,4 +1,4 @@
- Olá, sou o João Vitor Felix Souza e estou atualmente me formando em Análise e  Desenvolvimento de Sistemas. Nesse perfil poderá encontrar alguns dos meus projetos Desenvolvidos ao longo da minha carreira como Desenvolvedor.
+ Olá, sou o João Vitor Felix Souza e estou atualmente me formando em Análise e  Desenvolvimento de Sistemas pela Uninove. Nesse perfil você poderá encontrar alguns dos meus projetos Desenvolvidos ao longo da minha carreira como Desenvolvedor.
  
 -  Desenvolvedor Full Stack
 -  Programação Web
