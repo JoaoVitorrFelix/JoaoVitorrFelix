@@ -19,7 +19,15 @@
   <img align="center" alt="Java" height="40" width="50" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt ="csharp" height = "40" width ="40" title="CSHARP" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" >
 
+##
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoVitorrFelix/JoaoVitorrFelix/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoVitorrFelix/JoaoVitorrFelix/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoaoVitorrFelix/JoaoVitorrFelix/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=footer"/>
 
 </div>
 <h3 align="center"> 📫 Entre em contato comigo via Linkedin:</h3>
