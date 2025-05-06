@@ -9,7 +9,14 @@
 -  Programação Web
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorrFelix&show_icons=true&theme=cobalt)
+<div>
+  <a href="https://github.com/JoaoVitorrFelix">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorrFelix&rank_icon=github&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/JoaoVitorrFelix">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoVitorrFelix&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
+</a>
+</div>
 
 🛠️ Tecnologias e Ferramentas
 
