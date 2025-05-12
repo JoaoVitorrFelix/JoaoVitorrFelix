@@ -2,11 +2,17 @@
 
 ##
 <br>
+English:
 
- Olá, sou o João Vitor Felix Souza e estou atualmente me formando em Análise e  Desenvolvimento de Sistemas pela Uninove. Nesse perfil você poderá encontrar alguns dos meus projetos Desenvolvidos ao longo da minha carreira como Desenvolvedor.
+Hello, my name is João Vitor Felix Souza. I have a degree in Systems Development from ETEC and I am currently graduating in Systems Analysis and Development at Uninove. On this profile, you will find some of the projects I have developed throughout my career as a developer.
+
+Português:
+
+Olá, sou o João Vitor Felix Souza. Sou formado em Desenvolvimento de Sistemas pela ETEC e estou atualmente me formando em Análise e Desenvolvimento de Sistemas pela Uninove. Neste perfil, você encontrará alguns dos projetos que desenvolvi ao longo da minha carreira como desenvolvedor.
  
--  Desenvolvedor Full Stack
+-  Desenvolvedor Front-End
 -  Programação Web
+-  Data manegement
 
 ##
 
