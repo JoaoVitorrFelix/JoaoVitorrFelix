@@ -10,9 +10,9 @@ Português:
 
 Olá, sou o João Vitor Felix Souza. Sou formado em Desenvolvimento de Sistemas pela ETEC e estou atualmente me formando em Análise e Desenvolvimento de Sistemas pela Uninove. Neste perfil, você encontrará alguns dos projetos que desenvolvi ao longo da minha carreira como desenvolvedor.
  
--  Desenvolvedor Front-End
--  Programação Web
--  Data manegement
+-  Front-End Developer / Desenvolvedor Front-End
+-  Web Programming / Programação Web
+-  Data manegement / Gestão de Dados
 
 ##
 
@@ -27,7 +27,7 @@ Olá, sou o João Vitor Felix Souza. Sou formado em Desenvolvimento de Sistemas 
 
 ##
 
-🛠️ Tecnologias e Ferramentas
+🛠️ Technologies and Tools / Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -51,7 +51,7 @@ Olá, sou o João Vitor Felix Souza. Sou formado em Desenvolvimento de Sistemas 
 ##
 
 </div>
-<h3 align="center"> 📫 Entre em contato comigo via Linkedin:</h3>
+<h3 align="center"> 📫 Get in touch with me via LinkedIn / Entre em contato comigo via Linkedin:</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-felix-souza-b45479157/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="João Vitor Felix Souza"/>
